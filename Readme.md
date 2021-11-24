@@ -2,7 +2,7 @@ npm run start
 
 localhost:3000
 
-postman.json - importar poryecot en postman, con los datos y la rutas
+postman.json - importar poryecto en postman, con los datos y la rutas
 
 sqlite cmo base de datos,
 
